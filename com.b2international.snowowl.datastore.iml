@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.datastore/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.datastore">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.datastore/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="validation-api-1.1.0.Final.jar" level="project" />
+    <orderEntry type="library" name="hibernate-validator-5.1.1.Final.jar" level="project" />
+    <orderEntry type="library" name="picocli-3.5.1.jar" level="project" />
+    <orderEntry type="library" name="jsr305-1.3.9.jar" level="project" />
+    <orderEntry type="library" name="bucket4j-core-4.4.1.jar" level="project" />
+    <orderEntry type="library" name="micrometer-core-1.0.6.jar" level="project" />
+    <orderEntry type="library" name="micrometer-registry-prometheus-1.0.6.jar" level="project" />
+    <orderEntry type="module" module-name="com.b2international.snowowl.core" />
+  </component>
+</module>

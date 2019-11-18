@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons.test/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons.test">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons.test/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="testing" level="project" />
+    <orderEntry type="library" name="hibernate-validator-5.1.1.Final.jar" level="project" />
+    <orderEntry type="library" name="validation-api-1.1.0.Final.jar" level="project" />
+    <orderEntry type="library" name="system-rules-1.18.0.jar" level="project" />
+  </component>
+</module>

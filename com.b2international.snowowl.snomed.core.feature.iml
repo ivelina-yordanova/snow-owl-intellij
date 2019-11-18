@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.snomed.core.feature/bin" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.snomed.core.feature" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="plugins" level="project" />
+  </component>
+</module>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="testing">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/groovy-all-2.4.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-4.11.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/org.eclipse.xtext.testing" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/org.eclipse.xtext.testing" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/org.eclipse.xtext.testing" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/org.eclipse.xtext.testing" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons"/>
+	<lib name="LatencyUtils-2.0.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/LatencyUtils-2.0.3.jar!/"/>
+	</lib>
+	<lib name="bucket4j-core-4.4.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/bucket4j-core-4.4.1.jar!/"/>
+	</lib>
+	<lib name="hibernate-validator-5.1.1.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/hibernate-validator-5.1.1.Final.jar!/"/>
+	</lib>
+	<lib name="jboss-logging-3.1.3.GA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/jboss-logging-3.1.3.GA.jar!/"/>
+	</lib>
+	<lib name="jgrapht-core-1.3.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/jgrapht-core-1.3.0.jar!/"/>
+	</lib>
+	<lib name="jheaps-0.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/jheaps-0.9.jar!/"/>
+	</lib>
+	<lib name="jsr305-1.3.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/jsr305-1.3.9.jar!/"/>
+	</lib>
+	<lib name="micrometer-core-1.0.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/micrometer-core-1.0.6.jar!/"/>
+	</lib>
+	<lib name="micrometer-registry-prometheus-1.0.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/micrometer-registry-prometheus-1.0.6.jar!/"/>
+	</lib>
+	<lib name="picocli-3.5.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/picocli-3.5.1.jar!/"/>
+	</lib>
+	<lib name="simpleclient-0.4.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/simpleclient-0.4.0.jar!/"/>
+	</lib>
+	<lib name="simpleclient_common-0.4.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/simpleclient_common-0.4.0.jar!/"/>
+	</lib>
+	<lib name="validation-api-1.1.0.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/validation-api-1.1.0.Final.jar!/"/>
+	</lib>
+	<lib name="zjsonpatch-0.4.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.commons/lib/zjsonpatch-0.4.4.jar!/"/>
+	</lib>
+</component>

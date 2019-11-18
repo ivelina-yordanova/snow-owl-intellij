@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index"/>
+	<lib name="aggs-matrix-stats-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/aggs-matrix-stats-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="analysis-common-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/analysis-common-6.8.2.jar!/"/>
+	</lib>
+	<lib name="antlr4-runtime-4.5.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/antlr4-runtime-4.5.3.jar!/"/>
+	</lib>
+	<lib name="asm-debug-all-5.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/asm-debug-all-5.1.jar!/"/>
+	</lib>
+	<lib name="compiler-0.9.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/compiler-0.9.3.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-cli-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-cli-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-core-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-core-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-rest-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-rest-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-rest-high-level-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-rest-high-level-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-secure-sm-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-secure-sm-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-ssl-config-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-ssl-config-6.8.2.jar!/"/>
+	</lib>
+	<lib name="elasticsearch-x-content-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/elasticsearch-x-content-6.8.2.jar!/"/>
+	</lib>
+	<lib name="hppc-0.7.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/hppc-0.7.1.jar!/"/>
+	</lib>
+	<lib name="jna-4.5.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/jna-4.5.1.jar!/"/>
+	</lib>
+	<lib name="joda-time-2.10.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/joda-time-2.10.1.jar!/"/>
+	</lib>
+	<lib name="jopt-simple-5.0.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/jopt-simple-5.0.2.jar!/"/>
+	</lib>
+	<lib name="lang-mustache-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lang-mustache-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="lang-painless-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lang-painless-6.8.2.jar!/"/>
+	</lib>
+	<lib name="log4j-api-2.11.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/log4j-api-2.11.1.jar!/"/>
+	</lib>
+	<lib name="log4j-core-2.11.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/log4j-core-2.11.1.jar!/"/>
+	</lib>
+	<lib name="lucene-analyzers-common-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-analyzers-common-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-backward-codecs-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-backward-codecs-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-core-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-core-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-grouping-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-grouping-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-highlighter-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-highlighter-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-join-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-join-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-memory-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-memory-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-misc-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-misc-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-queries-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-queries-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-queryparser-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-queryparser-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-sandbox-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-sandbox-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-spatial-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-spatial-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-spatial-extras-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-spatial-extras-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-spatial3d-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-spatial3d-7.7.0.jar!/"/>
+	</lib>
+	<lib name="lucene-suggest-7.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/lucene-suggest-7.7.0.jar!/"/>
+	</lib>
+	<lib name="parent-join-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/parent-join-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="percolator-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/percolator-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="rank-eval-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/rank-eval-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="reindex-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/reindex-6.8.2.jar!/"/>
+	</lib>
+	<lib name="reindex-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/reindex-client-6.8.2.jar!/"/>
+	</lib>
+	<lib name="scripting-painless-spi-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/scripting-painless-spi-6.8.2.jar!/"/>
+	</lib>
+	<lib name="t-digest-3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/t-digest-3.2.jar!/"/>
+	</lib>
+	<lib name="transport-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/transport-6.8.2.jar!/"/>
+	</lib>
+	<lib name="transport-netty4-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/transport-netty4-6.8.2.jar!/"/>
+	</lib>
+	<lib name="transport-netty4-client-6.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.index/lib/transport-netty4-client-6.8.2.jar!/"/>
+	</lib>
+</component>

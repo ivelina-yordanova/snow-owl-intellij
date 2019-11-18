@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest"/>
+	<lib name="spring-aop-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-context-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-expression-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-plugin-core-1.2.0.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-plugin-metadata-1.2.0.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-config-5.1.6.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-security-config-5.1.6.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-core-5.1.6.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-security-core-5.1.6.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-web-5.1.6.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-security-web-5.1.6.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-web-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-5.1.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="springfox-core-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-core-2.9.2.jar!/"/>
+	</lib>
+	<lib name="springfox-schema-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-schema-2.9.2.jar!/"/>
+	</lib>
+	<lib name="springfox-spi-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-spi-2.9.2.jar!/"/>
+	</lib>
+	<lib name="springfox-spring-web-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-spring-web-2.9.2.jar!/"/>
+	</lib>
+	<lib name="springfox-swagger-common-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-swagger-common-2.9.2.jar!/"/>
+	</lib>
+	<lib name="springfox-swagger2-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-swagger2-2.9.2.jar!/"/>
+	</lib>
+</component>

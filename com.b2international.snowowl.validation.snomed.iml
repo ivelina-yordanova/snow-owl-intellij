@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.validation.snomed/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.validation.snomed">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.validation.snomed/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/snomed/com.b2international.snowowl.validation.snomed/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="testing" level="project" />
+    <orderEntry type="module" module-name="com.b2international.snowowl.fhir.core" />
+    <orderEntry type="library" name="validation-api-1.1.0.Final.jar" level="project" />
+  </component>
+</module>

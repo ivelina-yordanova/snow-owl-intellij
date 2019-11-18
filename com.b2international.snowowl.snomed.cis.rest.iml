@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/cis/com.b2international.snowowl.snomed.cis.rest/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/cis/com.b2international.snowowl.snomed.cis.rest">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/cis/com.b2international.snowowl.snomed.cis.rest/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="spring-web-5.1.9.RELEASE.jar" level="project" />
+    <orderEntry type="library" name="spring-beans-5.1.9.RELEASE.jar" level="project" />
+    <orderEntry type="library" name="spring-core-5.1.9.RELEASE.jar" level="project" />
+    <orderEntry type="library" name="spring-context-5.1.9.RELEASE.jar" level="project" />
+    <orderEntry type="library" name="java-jwt-3.8.1.jar" level="project" />
+    <orderEntry type="library" name="springfox-spring-web-2.9.2.jar" level="project" />
+  </component>
+</module>

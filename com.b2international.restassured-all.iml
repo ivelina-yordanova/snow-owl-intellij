@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/json-path-3.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/rest-assured-3.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/rest-assured-common-3.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/xml-path-3.2.0.jar!/" />
+    <src_description expected_position="0" />
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="library" exported="" name="json-path-3.2.0.jar" level="project" />
+    <orderEntry type="library" exported="" name="rest-assured-3.2.0.jar" level="project" />
+    <orderEntry type="library" exported="" name="rest-assured-common-3.2.0.jar" level="project" />
+    <orderEntry type="library" exported="" name="xml-path-3.2.0.jar" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+  </component>
+</module>

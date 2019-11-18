@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="system-rules-1.18.0.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/lib/system-rules-1.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

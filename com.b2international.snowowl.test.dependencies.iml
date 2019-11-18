@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/lib/contiperf-2.3.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/lib/system-rules-1.18.0.jar!/" />
+    <src_description expected_position="2">
+      <src_folder value="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/src/" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="contiperf-2.3.2.jar" level="project" />
+    <orderEntry type="library" exported="" name="system-rules-1.18.0.jar" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="testing" level="project" />
+  </component>
+</module>

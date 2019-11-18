@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies"/>
+	<lib name="contiperf-2.3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/lib/contiperf-2.3.2.jar!/"/>
+	</lib>
+	<lib name="system-rules-1.18.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.snowowl.test.dependencies/lib/system-rules-1.18.0.jar!/"/>
+	</lib>
+</component>

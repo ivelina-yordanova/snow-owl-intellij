@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all"/>
+	<lib name="json-path-3.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/json-path-3.2.0.jar!/"/>
+	</lib>
+	<lib name="rest-assured-3.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/rest-assured-3.2.0.jar!/"/>
+	</lib>
+	<lib name="rest-assured-common-3.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/rest-assured-common-3.2.0.jar!/"/>
+	</lib>
+	<lib name="xml-path-3.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/tests/com.b2international.restassured-all/lib/xml-path-3.2.0.jar!/"/>
+	</lib>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springfox-core-2.9.2.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.core.rest/WEB-INF/lib/springfox-core-2.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

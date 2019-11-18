@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cis.iml" filepath="$PROJECT_DIR$/cis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.collections.api.iml" filepath="$PROJECT_DIR$/com.b2international.collections.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.collections.fastutil.iml" filepath="$PROJECT_DIR$/com.b2international.collections.fastutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.collections.jackson.iml" filepath="$PROJECT_DIR$/com.b2international.collections.jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.commons.iml" filepath="$PROJECT_DIR$/com.b2international.commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.commons.base.iml" filepath="$PROJECT_DIR$/com.b2international.commons.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.commons.test.iml" filepath="$PROJECT_DIR$/com.b2international.commons.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.index.iml" filepath="$PROJECT_DIR$/com.b2international.index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.index.tests.iml" filepath="$PROJECT_DIR$/com.b2international.index.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.index.tests.tools.iml" filepath="$PROJECT_DIR$/com.b2international.index.tests.tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.mapdb.iml" filepath="$PROJECT_DIR$/com.b2international.mapdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.restassured-all.iml" filepath="$PROJECT_DIR$/com.b2international.restassured-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.scripting.api.iml" filepath="$PROJECT_DIR$/com.b2international.scripting.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.scripting.groovy.iml" filepath="$PROJECT_DIR$/com.b2international.scripting.groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.core.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.core.rest.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.core.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.core.rest.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.core.rest.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.core.rest.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.core.rest.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.core.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.core.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.datastore.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.datastore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.datastore.server.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.datastore.server.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.eventbus.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.eventbus.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.eventbus.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.fhir.core.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.fhir.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.fhir.rest.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.identity.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.identity.file.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.identity.file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.identity.ldap.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.identity.ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.logback.config.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.logback.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.rpc.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.rpc.test.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.rpc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.server.core.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.server.core.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.server.dependencies.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.server.dependencies.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.server.product.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.server.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.server.product.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.server.product.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.server.update.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.server.update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.product.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.rest.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.cis.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.common.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.core.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.core.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.core.rest.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.datastore.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.datastore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.datastore.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.datastore.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.dsl.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.examples.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.ecl.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.fhir.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.fhir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.icons.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.ql.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.ql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.reasoner.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.reasoner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.reasoner.tests.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.reasoner.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.scg.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.scg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.simpleast.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.simpleast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.simpleast.test.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.simpleast.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.test.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.snomed.semanticengine.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.test.commons.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.test.commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.test.dependencies.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.test.dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.test.feature.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.test.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.b2international.snowowl.validation.snomed.iml" filepath="$PROJECT_DIR$/com.b2international.snowowl.validation.snomed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons.iml" filepath="$PROJECT_DIR$/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core.iml" filepath="$PROJECT_DIR$/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist.iml" filepath="$PROJECT_DIR$/dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/documentation.iml" filepath="$PROJECT_DIR$/documentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fhir-parent.iml" filepath="$PROJECT_DIR$/fhir-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net4j.iml" filepath="$PROJECT_DIR$/net4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/releng.iml" filepath="$PROJECT_DIR$/releng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snomed.iml" filepath="$PROJECT_DIR$/snomed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snow-owl.iml" filepath="$PROJECT_DIR$/snow-owl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/target-platform.iml" filepath="$PROJECT_DIR$/target-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests.iml" filepath="$PROJECT_DIR$/tests.iml" />
+    </modules>
+  </component>
+</project>

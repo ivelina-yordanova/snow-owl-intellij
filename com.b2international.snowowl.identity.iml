@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.identity/lib/java-jwt-3.8.1.jar!/" />
+    <src_description expected_position="2">
+      <src_folder value="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.identity/src/" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.identity/target/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.identity">
+      <sourceFolder url="file://$USER_HOME$/eclipse-workspace/snow-owl/core/com.b2international.snowowl.identity/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="java-jwt-3.8.1.jar" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="hibernate-validator-5.1.1.Final.jar" level="project" />
+  </component>
+</module>

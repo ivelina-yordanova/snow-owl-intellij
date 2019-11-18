@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-11">
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb"/>
+	<lib name="annotations-13.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/annotations-13.0.jar!/"/>
+	</lib>
+	<lib name="eclipse-collections-9.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/eclipse-collections-9.1.0.jar!/"/>
+	</lib>
+	<lib name="eclipse-collections-api-9.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/eclipse-collections-api-9.1.0.jar!/"/>
+	</lib>
+	<lib name="eclipse-collections-forkjoin-9.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/eclipse-collections-forkjoin-9.1.0.jar!/"/>
+	</lib>
+	<lib name="elsa-3.0.0-M5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/elsa-3.0.0-M5.jar!/"/>
+	</lib>
+	<lib name="guava-20.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/guava-20.0.jar!/"/>
+	</lib>
+	<lib name="lz4-1.3.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/lz4-1.3.0.jar!/"/>
+	</lib>
+	<lib name="mapdb-3.0.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$USER_HOME$/eclipse-workspace/snow-owl/commons/com.b2international.mapdb/lib/mapdb-3.0.7.jar!/"/>
+	</lib>
+</component>
